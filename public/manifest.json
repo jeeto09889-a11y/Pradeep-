@@ -1,0 +1,21 @@
+{
+  "name": "pradeepbuilds",
+  "short_name": "PB Creator",
+  "description": "Professional portfolio, payment portal, and real-time messaging platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b1e",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534139.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534139.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
